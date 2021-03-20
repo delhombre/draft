@@ -186,7 +186,7 @@ header {
 		font-size: 2rem;
 		padding: 0;
 		margin: auto 0;
-		font-weight: 100;
+		/* font-weight: 100; */
 	}
 
 	.nav-list-larger {
