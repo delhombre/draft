@@ -7,24 +7,23 @@
 }
 
 @font-face {
-	font-family: "'SF Pro Text'";
+	font-family: "SF Pro Text";
 	font-weight: 100;
-	src: local("SF Pro Text"),
-		url("fonts/SF-Pro-Text-Light.otf") format("opentype");
+	src: local("SF Pro Text"), url(fonts/SF-Pro-Text-Light.otf) format("opentype");
 }
 
 @font-face {
-	font-family: "'SF Pro Text'";
+	font-family: "SF Pro Text";
 	font-weight: 400;
 	src: local("SF Pro Text"),
-		url("fonts/SF-Pro-Text-Regular.otf") format("opentype");
+		url(fonts/SF-Pro-Text-Regular.otf) format("opentype");
 }
 
 @font-face {
-	font-family: "'SF Pro Text'";
+	font-family: "SF Pro Text";
 	font-weight: 500;
 	src: local("SF Pro Text"),
-		url("fonts/SF-Pro-Text-Medium.otf") format("opentype");
+		url(fonts/SF-Pro-Text-Medium.otf) format("opentype");
 }
 
 /* croix #86868b
